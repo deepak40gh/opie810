@@ -16,3 +16,6 @@ Here are the technologies I work with:
 | WebSockets   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/websocket/websocket-original.svg" alt="WebSockets" width="40" height="40"/> |
 | HTML         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> |
 | CSS          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> |
+| Convex       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/convex/convex-original.svg" alt="Convex" width="40" height="40"/> |
+| Clerk        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clerk/clerk-original.svg" alt="Clerk" width="40" height="40"/> |
+| Socket.IO    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="Socket.IO" width="40" height="40"/> |
