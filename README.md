@@ -1,5 +1,11 @@
 ## Tech Stack
 
+📫 Connect with me:
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/dpokk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-reddy-455r/)
+
+
 Here are the technologies I work with:
 
 | Technology   | Logo |
