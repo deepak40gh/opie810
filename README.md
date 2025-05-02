@@ -98,7 +98,7 @@ Here are the technologies I work with:
 ---
 
 [![RealTime ChatApp](https://img.shields.io/badge/Project-RealTime%20ChatApp-green?style=for-the-badge&logo=socketdotio&logoColor=white)](https://github.com/dpokk/realtime-chatapp)
-[![Live](https://img.shields.io/badge/Live-Link-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://realtime-chatapp.vercel.app)  
+[![](https://img.shields.io/badge/Live-Link-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://realtime-chatapp.vercel.app)  
 > **[RealTime ChatApp](https://github.com/dpokk/realtime-chatapp)** – A Real-time Chat application enabling instant communication between users using WebSocket technology.
 
 ---
