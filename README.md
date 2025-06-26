@@ -2,17 +2,20 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
+
 ### 🚀 Featured Projects
 
-[![RealTime ChatApp](https://img.shields.io/badge/Project-RealTime%20ChatApp-green?style=for-the-badge&logo=socketdotio&logoColor=white)](https://github.com/dpokk/realtime-chatapp)
-[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-url.com)
+[![RealTime ChatApp](https://img.shields.io/badge/Project-RealTime%20ChatApp-green?style=for-the-badge&logo=socketdotio&logoColor=white)](https://github.com/dpokk/realtime-chatapp)  
+🔗 [Live Site](https://your-live-url.com)
+
 > A Real-time Chat application enabling instant communication between users using WebSocket technology.
 
-[![Orivion](https://img.shields.io/badge/Project-Orivion-blue?style=for-the-badge&logo=typescript)](https://github.com/dpokk/orivion)
-[![Live](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-url.com)
+[![Orivion](https://img.shields.io/badge/Project-Orivion-blue?style=for-the-badge&logo=typescript)](https://github.com/dpokk/orivion)  
+🔗 [Live Site](https://your-live-url.com)
+
 > Orivion - A Remote Technical Interview platform with Live video calls, an interactive Code Editor, and full interview management tools for candidates, interviewers, and admins.
 
-[![Order Processing System](https://img.shields.io/badge/Project-Order%20Processing%20System-orange?style=for-the-badge&logo=javascript)](https://github.com/dpokk/order-processing-system)
+[![Order Processing System](https://img.shields.io/badge/Project-Order%20Processing%20System-orange?style=for-the-badge&logo=javascript)](https://github.com/dpokk/order-processing-system)  
 > A full-stack web application for managing orders, products, and customers. This system provides a modern and efficient way to handle order processing workflows.
 
 
