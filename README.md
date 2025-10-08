@@ -1,35 +1,34 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+👋 Hi, I’m Deepak!
+👀 I’m passionate about building full-stack web applications with modern technologies like Next.js and the MERN stack.
+💬 Looking to collaborate on full-stack development and GenAI-driven projects.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-
-### 🚀 Featured Projects
-
-### 🚀 Featured Projects
-
-[![Remote Interview Platform](https://img.shields.io/badge/Project-Remote%20Interview%20Platform-darkgreen?style=for-the-badge&logo=typescript)](https://github.com/dpokk/orivion) 
-[![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://orivion.vercel.app/)  
-> ORIVION - A Remote Technical Interview platform with Live video calls, an interactive Code Editor, and full interview management tools for candidates, interviewers, and admins.
-
-[![RealTime ChatApp](https://img.shields.io/badge/Project-RealTime%20ChatApp-violet?style=for-the-badge&logo=socketdotio&logoColor=white)](https://github.com/dpokk/realtime-chatapp) 
-[![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://zocket-xr6r.onrender.com)  
-> ZOCKET - A Real-time Chat application enabling instant communication between users using WebSocket technology.
-
-[![Order Processing System](https://img.shields.io/badge/Project-Order%20Processing%20System-orange?style=for-the-badge&logo=javascript)](https://github.com/dpokk/order-processing-system)  
-> A full-stack web application for managing orders, products, and customers. This system provides a modern and efficient way to handle order processing workflows.
+📫 Connect with me:
 
 
-1. ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-2. ![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=monokai&column=7)
 
-3.![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=github-compact)
-<!-- Requires WakaTime setup -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourwakaprofile)
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox" />
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=gruvbox" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gruvbox" />
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox&column=7" />
-</p>
+
+🛠️ Tech Stack
+<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin-right:20px;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40" style="margin-right:20px;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right:20px;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:20px;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin-right:20px;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right:20px;"/> <img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" alt="WebSocket" width="40" height="40" style="margin-right:20px;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right:20px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin-right:20px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin-right:20px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right:20px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="Socket.IO" width="40" height="40" style="margin-right:20px;"/> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40" style="margin-right:10px;"/> </div>
+🚀 Featured Projects
+
+
+
+
+ORIVION — A Remote Technical Interview platform with live video calls, an interactive code editor, and complete interview management tools for candidates, interviewers, and admins.
+
+
+
+
+ZOCKET — A Real-time chat application enabling instant communication between users using WebSocket technology.
+
+
+
+
+Web Wallet Generator — Generate Ethereum and Solana wallet addresses instantly from a BIP-39 mnemonic or create new ones on the fly with a clean, production-style UI.
+
+
+
+
+HD Wallet Generator — Generate and explore hierarchical deterministic (HD) wallets supporting multiple derivation paths with a minimal and intuitive design.
+
+🔥 GitHub Stats
