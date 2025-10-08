@@ -37,17 +37,17 @@
 [![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://orivion.vercel.app/)  
 > **ORIVION** — A Remote Technical Interview platform with live video calls, an interactive code editor, and complete interview management tools for candidates, interviewers, and admins.
 
+[![Crypto Wallet Generator](https://img.shields.io/badge/Project-Web%20Wallet%20Generator-purple?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/dpokk/web-wallet-generator)
+[![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://web-wallet-generator.vercel.app/)  
+> ** Crypto Wallet Generator** — Generate multiple Ethereum and Solana wallet addresses from a BIP-39 mnemonic or create new ones on the fly. Uses ed25519 for SOL, secp256k1 curve and the ECDSA signature scheme for ETH.
+
 [![RealTime ChatApp](https://img.shields.io/badge/Project-RealTime%20ChatApp-green?style=for-the-badge&logo=socketdotio&logoColor=white)](https://github.com/dpokk/realtime-chatapp) 
 [![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://zocket-xr6r.onrender.com)  
 > **ZOCKET** — A Real-time chat application enabling instant communication between users using WebSocket technology.
 
-[![Web Wallet Generator](https://img.shields.io/badge/Project-Web%20Wallet%20Generator-purple?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/dpokk/web-wallet-generator)
-[![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://web-wallet-generator.vercel.app/)  
-> **Web Wallet Generator** — Generate Ethereum and Solana wallet addresses instantly from a BIP-39 mnemonic or create new ones on the fly with a clean, production-style UI.
-
-[![HD Wallet Generator](https://img.shields.io/badge/Project-HD%20Wallet%20Generator-orange?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/dpokk/rawHD-wallet-generator)
+[![RawCrypto Wallet Generator](https://img.shields.io/badge/Project-HD%20Wallet%20Generator-orange?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/dpokk/rawHD-wallet-generator)
 [![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://hd-wallet-generator.vercel.app/)  
-> **HD Wallet Generator** — Generate and explore hierarchical deterministic (HD) wallets supporting multiple derivation paths with a minimal and intuitive design.
+> **Hierarchical Deterministic Wallet Generator** — Generate and explore hierarchical deterministic (HD) wallets supporting multiple derivation paths with a minimal and intuitive design.
 
 ---
 
