@@ -34,22 +34,28 @@
 ### 🚀 Featured Projects
 
 ### Patient Management System  
-[![Patient Management System](https://img.shields.io/badge/Project-Patient%20Management%20System-red?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/dpokk/patient-management-system)  
-> A A production-grade, cloud-native microservices architecture project. It is a distributed systems application architected using microservices design patterns to handle patient data, authentication, billing, and analytics operations
+[![Source Code](https://img.shields.io/badge/Source%20Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpokk/patient-management-system)  
+> A production-grade, cloud-native microservices architecture project built using distributed systems and microservice design patterns to handle patient data, authentication, billing, and analytics operations.
 
-### Bitly Clone - URL Shortener  
-[![URL Shortener](https://img.shields.io/badge/Project-URL%20Shortener-orange?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/dpokk/url-shortener)  
+---
+
+### Bitly Clone – URL Shortener  
+[![Source Code](https://img.shields.io/badge/Source%20Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpokk/url-shortener)  
 > Full-stack link-shortening platform using React & Spring Boot with real-time click analytics.
 
-### Remote Interview Platform
-[![Remote Interview Platform](https://img.shields.io/badge/Project-Remote%20Interview%20Platform-blue?style=for-the-badge&logo=typescript)](https://github.com/dpokk/orivion) 
-[![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://orivion.vercel.app/)  
-> A Remote Technical Interview platform with live video calls, an interactive code editor, and complete interview management tools for candidates, interviewers, and admins.
+---
 
-### Realtime Messaging Chat Application
-[![RealTime ChatApp](https://img.shields.io/badge/Project-RealTime%20ChatApp-green?style=for-the-badge&logo=socketdotio&logoColor=white)](https://github.com/dpokk/realtime-chatapp) 
+### Remote Interview Platform  
+[![Source Code](https://img.shields.io/badge/Source%20Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpokk/orivion)  
+[![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://orivion.vercel.app/)  
+> A remote technical interview platform with live video calls, an interactive code editor, and complete management tools for candidates, interviewers, and admins.
+
+---
+
+### Realtime Messaging Chat Application  
+[![Source Code](https://img.shields.io/badge/Source%20Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpokk/realtime-chatapp)  
 [![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://zocket-xr6r.onrender.com)  
-> A Real-time chat application enabling instant communication between users using WebSocket technology.
+> A real-time chat application enabling instant communication between users using WebSocket technology.
 
 ---
 
