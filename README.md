@@ -11,21 +11,33 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin-right:20px;"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" alt="WebSocket" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="Socket.IO" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40" style="margin-right:10px;"/>
+<!-- Existing devicon icons -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" alt="WebSocket" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="Socket.IO" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40" style="margin-right:18px;"/>
+
+<!-- NEW: Spring, Spring Boot, Java, PostgreSQL, Docker, Kafka, Ethereum, Spring Cloud (shields.io badges for reliability) -->
+<img src="https://img.shields.io/badge/-Spring-%236DB33F?logo=spring&logoColor=white" alt="Spring" width="40" height="40" style="margin-right:12px;"/>
+<img src="https://img.shields.io/badge/-Spring%20Boot-%236DB33F?logo=springboot&logoColor=white" alt="Spring Boot" width="40" height="40" style="margin-right:12px;"/>
+<img src="https://img.shields.io/badge/-Java-%23ED8B00?logo=java&logoColor=white" alt="Java" width="40" height="40" style="margin-right:12px;"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-%233367A1?logo=postgresql&logoColor=white" alt="PostgreSQL" width="40" height="40" style="margin-right:12px;"/>
+<img src="https://img.shields.io/badge/-Docker-%230db7ed?logo=docker&logoColor=white" alt="Docker" width="40" height="40" style="margin-right:12px;"/>
+<img src="https://img.shields.io/badge/-Kafka-%23F05A28?logo=apachekafka&logoColor=white" alt="Kafka" width="40" height="40" style="margin-right:12px;"/>
+<img src="https://img.shields.io/badge/-Ethereum-%233C3C3D?logo=ethereum&logoColor=white" alt="Ethereum" width="40" height="40" style="margin-right:12px;"/>
+<img src="https://img.shields.io/badge/-Spring%20Cloud-%236DB33F?logo=spring&logoColor=white" alt="Spring Cloud" width="40" height="40" style="margin-right:12px;"/>
 
 </div>
+
 
 ---
 
