@@ -1,6 +1,4 @@
 👋 Hi, I’m **Deepak!**  
-👀 I build full-stack web applications with modern technologies like Next.js and the MERN stack.  
-💬 Looking to collaborate on Solana Web3 and GenAI-driven projects.  
 
 📫 Connect with me:
 
@@ -40,7 +38,7 @@
 
 ### Bitly Clone – URL Shortener  
 [![Source Code](https://img.shields.io/badge/Source%20Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpokk/url-shortener)  
-> Full-stack link-shortening platform using React & Spring Boot with real-time click analytics.
+> Full-stack optimised link-shortening platform built using React & Spring Boot with real-time click analytics data displayed on a centralized dashboard.
 
 
 ### Remote Interview Platform  
@@ -54,6 +52,7 @@
 [![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://zocket-xr6r.onrender.com)  
 > A real-time chat application enabling instant communication between users using WebSocket technology.
 
+---
 
 ### 🔥 GitHub Stats
 
