@@ -33,25 +33,23 @@
 
 ### 🚀 Featured Projects
 
-### 🔴 Patient Management System  
+### Patient Management System  
 [![Patient Management System](https://img.shields.io/badge/Project-Patient%20Management%20System-red?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/dpokk/patient-management-system)  
-> Cloud-native healthcare microservices system built using Java & Spring Boot, implementing enterprise patterns, API gateways, and event-driven communication.
+> A A production-grade, cloud-native microservices architecture project. It is a distributed systems application architected using microservices design patterns to handle patient data, authentication, billing, and analytics operations
 
-### 🟠 URL Shortener  
+### Bitly Clone - URL Shortener  
 [![URL Shortener](https://img.shields.io/badge/Project-URL%20Shortener-orange?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/dpokk/url-shortener)  
 > Full-stack link-shortening platform using React & Spring Boot with real-time click analytics.
 
+### Remote Interview Platform
 [![Remote Interview Platform](https://img.shields.io/badge/Project-Remote%20Interview%20Platform-blue?style=for-the-badge&logo=typescript)](https://github.com/dpokk/orivion) 
 [![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://orivion.vercel.app/)  
-> **ORIVION** — A Remote Technical Interview platform with live video calls, an interactive code editor, and complete interview management tools for candidates, interviewers, and admins.
+> A Remote Technical Interview platform with live video calls, an interactive code editor, and complete interview management tools for candidates, interviewers, and admins.
 
-[![Crypto Wallet Generator](https://img.shields.io/badge/Project-Crypto%20Wallet%20Generator-purple?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/dpokk/web-wallet-generator)
-[![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://web-wallet-generator.vercel.app/)  
-> ** Crypto Wallet Generator** — Generate multiple Ethereum and Solana wallet addresses from a BIP-39 mnemonic or create new ones on the fly. Uses ed25519 for SOL, secp256k1 curve and the ECDSA signature scheme for ETH.
-
+### Realtime Messaging Chat Application
 [![RealTime ChatApp](https://img.shields.io/badge/Project-RealTime%20ChatApp-green?style=for-the-badge&logo=socketdotio&logoColor=white)](https://github.com/dpokk/realtime-chatapp) 
 [![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://zocket-xr6r.onrender.com)  
-> **ZOCKET** — A Real-time chat application enabling instant communication between users using WebSocket technology.
+> A Real-time chat application enabling instant communication between users using WebSocket technology.
 
 ---
 
